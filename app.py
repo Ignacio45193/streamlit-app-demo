@@ -19,5 +19,3 @@ st.subheader("About This Class")
 st.write("This class focuses on practical applications of AI and data science tools, including the use of platforms like Streamlit for project deployment. blablablalba yass slay naurrrrrr womp wopmp")
 st.write("This is the second paragraph I think")
 
-# Sub Content
-st.write("yass")
